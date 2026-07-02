@@ -2,7 +2,7 @@
 
 ---
 
-# 📚 Vidya — AI Tutor for Rural India
+# 📚 Vidya — AI Tutor for rural India
 
 Vidya is an AI-based tutoring system designed to make quality education accessible even in low-bandwidth environments. It uses a custom **context pruning approach** to reduce unnecessary data processing, lowering LLM token usage by up to **85–92%** while still providing accurate answers from textbook content.
 
